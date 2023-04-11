@@ -4,14 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HelloWorldCoreWithVisoualStudio
+namespace DotNet
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World.");
-
         }
     }
 }

@@ -1,7 +1,0 @@
-C:\C#\HelloWorldCoreWithVisoualStudio\HelloWorldCoreWithVisoualStudio\bin\Debug\HelloWorldCoreWithVisoualStudio.exe.config
-C:\C#\HelloWorldCoreWithVisoualStudio\HelloWorldCoreWithVisoualStudio\bin\Debug\HelloWorldCoreWithVisoualStudio.exe
-C:\C#\HelloWorldCoreWithVisoualStudio\HelloWorldCoreWithVisoualStudio\bin\Debug\HelloWorldCoreWithVisoualStudio.pdb
-C:\C#\HelloWorldCoreWithVisoualStudio\HelloWorldCoreWithVisoualStudio\obj\Debug\HelloWorldCoreWithVisoualStudio.csproj.AssemblyReference.cache
-C:\C#\HelloWorldCoreWithVisoualStudio\HelloWorldCoreWithVisoualStudio\obj\Debug\HelloWorldCoreWithVisoualStudio.csproj.CoreCompileInputs.cache
-C:\C#\HelloWorldCoreWithVisoualStudio\HelloWorldCoreWithVisoualStudio\obj\Debug\HelloWorldCoreWithVisoualStudio.exe
-C:\C#\HelloWorldCoreWithVisoualStudio\HelloWorldCoreWithVisoualStudio\obj\Debug\HelloWorldCoreWithVisoualStudio.pdb

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FBC57089-2F8C-44ED-B23F-99831998C8D2}</ProjectGuid>
+    <ProjectGuid>{28512430-064E-469A-B0D3-7EB0132D9754}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>HelloWorldCoreWithVisoualStudio</RootNamespace>
-    <AssemblyName>HelloWorldCoreWithVisoualStudio</AssemblyName>
+    <RootNamespace>DotNet</RootNamespace>
+    <AssemblyName>DotNet</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
