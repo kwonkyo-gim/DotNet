@@ -43,11 +43,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DotNet\04_Syntax\SquarePractice.cs" />
+    <Compile Include="DotNet\04_Syntax\PlaceHolder.cs" />
+    <Compile Include="DotNet\04_Syntax\Quotes.cs" />
+    <Compile Include="DotNet\04_Syntax\Whitespace.cs" />
+    <Compile Include="DotNet\04_Syntax\Comment.cs" />
+    <Compile Include="DotNet\04_Syntax\NewLine.cs" />
+    <Compile Include="DotNet\04_Syntax\ConsoleWrite.cs" />
+    <Compile Include="DotNet\04_Syntax\ClassSimple.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
