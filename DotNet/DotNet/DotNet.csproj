@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>ConsoleReadDemo</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -43,6 +46,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DotNet\04_Syntax\PlaceHolderMulti.cs" />
+    <Compile Include="DotNet\04_Syntax\PlaceHolderTwice.cs" />
     <Compile Include="DotNet\04_Syntax\SquarePractice.cs" />
     <Compile Include="DotNet\04_Syntax\PlaceHolder.cs" />
     <Compile Include="DotNet\04_Syntax\Quotes.cs" />
@@ -51,6 +56,39 @@
     <Compile Include="DotNet\04_Syntax\NewLine.cs" />
     <Compile Include="DotNet\04_Syntax\ConsoleWrite.cs" />
     <Compile Include="DotNet\04_Syntax\ClassSimple.cs" />
+    <Compile Include="DotNet\05_Variable\ConstantDemo.cs" />
+    <Compile Include="DotNet\05_Variable\VariableSameValue.cs" />
+    <Compile Include="DotNet\05_Variable\VariableComma.cs" />
+    <Compile Include="DotNet\05_Variable\VariableDemo.cs" />
+    <Compile Include="DotNet\05_Variable\VariableNote.cs" />
+    <Compile Include="DotNet\05_Variable\Literal.cs" />
+    <Compile Include="DotNet\05_Variable\Variable.cs" />
+    <Compile Include="DotNet\06_Number\NullableDemo.cs" />
+    <Compile Include="DotNet\06_Number\DecimalMinMax.cs" />
+    <Compile Include="DotNet\06_Number\DecimalDemo.cs" />
+    <Compile Include="DotNet\06_Number\FloatMinMax.cs" />
+    <Compile Include="DotNet\06_Number\FloatDemo.cs" />
+    <Compile Include="DotNet\06_Number\DoubleMinMax.cs" />
+    <Compile Include="DotNet\06_Number\DoubleDemo.cs" />
+    <Compile Include="DotNet\06_Number\UnsignedInteger.cs" />
+    <Compile Include="DotNet\06_Number\SignedInteger.cs" />
+    <Compile Include="DotNet\06_Number\IntegerDemo.cs" />
+    <Compile Include="DotNet\07_Char\DateTimePreview.cs" />
+    <Compile Include="DotNet\07_Char\WrapperType.cs" />
+    <Compile Include="DotNet\07_Char\CharStringBoolean.cs" />
+    <Compile Include="DotNet\07_Char\Constant.cs" />
+    <Compile Include="DotNet\07_Char\ConstDoubleString.cs" />
+    <Compile Include="DotNet\07_Char\BooleanDemo.cs" />
+    <Compile Include="DotNet\07_Char\StringInterpolationDemo.cs" />
+    <Compile Include="DotNet\07_Char\StringFormatDemo.cs" />
+    <Compile Include="DotNet\07_Char\StringInterpolationDescription.cs" />
+    <Compile Include="DotNet\07_Char\MultiLineString.cs" />
+    <Compile Include="DotNet\07_Char\StringKeyword.cs" />
+    <Compile Include="DotNet\07_Char\CharacterDemo.cs" />
+    <Compile Include="DotNet\08_ReadLine\ConsoleReadLineDemo.cs" />
+    <Compile Include="DotNet\08_ReadLine\ConsoleReadDemo.cs" />
+    <Compile Include="DotNet\08_ReadLine\InputName.cs" />
+    <Compile Include="DotNet\08_ReadLine\ReadLineDemo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
