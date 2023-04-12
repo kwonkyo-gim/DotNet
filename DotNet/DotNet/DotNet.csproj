@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ArrayStudents</StartupObject>
+    <StartupObject>CommandLineArgument</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -179,6 +179,38 @@
     <Compile Include="DotNet\18_Array\ArrayOne4.cs" />
     <Compile Include="DotNet\18_Array\ArrayTotalAvg.cs" />
     <Compile Include="DotNet\18_Array\ArrayStudents.cs" />
+    <Compile Include="DotNet\18_Array\ArrayEmpty.cs" />
+    <Compile Include="DotNet\18_Array\ArrayTwo1.cs" />
+    <Compile Include="DotNet\18_Array\ArrayTwo2.cs" />
+    <Compile Include="DotNet\18_Array\ArrayTwoFor.cs" />
+    <Compile Include="DotNet\18_Array\ArraySameIndex.cs" />
+    <Compile Include="DotNet\18_Array\ArraySumAverage.cs" />
+    <Compile Include="DotNet\18_Array\ArrayThreeDescription.cs" />
+    <Compile Include="DotNet\18_Array\ArrayThree.cs" />
+    <Compile Include="DotNet\18_Array\ArrayGetLengthDemo.cs" />
+    <Compile Include="DotNet\18_Array\ArrayWithVarKeyword.cs" />
+    <Compile Include="DotNet\18_Array\ZigZag.cs" />
+    <Compile Include="DotNet\19_Function\ArrowFunction.cs" />
+    <Compile Include="DotNet\19_Function\CommandLineArgument.cs" />
+    <Compile Include="DotNet\19_Function\LocalFunctionAdd.cs" />
+    <Compile Include="DotNet\19_Function\LocalFunctionDemo.cs" />
+    <Compile Include="DotNet\19_Function\ExpressionBodiedMethod.cs" />
+    <Compile Include="DotNet\19_Function\FunctionScope.cs" />
+    <Compile Include="DotNet\19_Function\RecursionPower.cs" />
+    <Compile Include="DotNet\19_Function\RecursionDemo.cs" />
+    <Compile Include="DotNet\19_Function\FunctionOverload.cs" />
+    <Compile Include="DotNet\19_Function\MethodOverload.cs" />
+    <Compile Include="DotNet\19_Function\MethodOverloadNumber.cs" />
+    <Compile Include="DotNet\19_Function\NamedParameter.cs" />
+    <Compile Include="DotNet\19_Function\FunctionCall.cs" />
+    <Compile Include="DotNet\19_Function\DefaultParameter.cs" />
+    <Compile Include="DotNet\19_Function\FunctionAddNumbers.cs" />
+    <Compile Include="DotNet\19_Function\MaxMinFunction.cs" />
+    <Compile Include="DotNet\19_Function\GetSumTwoNumber.cs" />
+    <Compile Include="DotNet\19_Function\FunctionReturnValue.cs" />
+    <Compile Include="DotNet\19_Function\ReturnValue.cs" />
+    <Compile Include="DotNet\19_Function\FunctionParameter.cs" />
+    <Compile Include="DotNet\19_Function\FunctionDemo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
