@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ForSumEven</StartupObject>
+    <StartupObject>ArrayStudents</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -147,7 +147,38 @@
     <Compile Include="DotNet\14_switch\SignalLight.cs" />
     <Compile Include="DotNet\14_switch\SwitchWeather.cs" />
     <Compile Include="DotNet\14_switch\SwitchDescription.cs" />
+    <Compile Include="DotNet\15_For\TimesTable.cs" />
+    <Compile Include="DotNet\15_For\ForFactorial.cs" />
+    <Compile Include="DotNet\15_For\InfiniteLoop.cs" />
+    <Compile Include="DotNet\15_For\ForEven.cs" />
+    <Compile Include="DotNet\15_For\SeeSharpSum100.cs" />
+    <Compile Include="DotNet\15_For\ForDescription.cs" />
+    <Compile Include="DotNet\15_For\ForDemo.cs" />
     <Compile Include="DotNet\15_For\ForSumEven.cs" />
+    <Compile Include="DotNet\16_While\ForEachUp.cs" />
+    <Compile Include="DotNet\16_While\ForEach.cs" />
+    <Compile Include="DotNet\16_While\DoWhileDemo.cs" />
+    <Compile Include="DotNet\16_While\DoWhileSum.cs" />
+    <Compile Include="DotNet\16_While\DoWhile.cs" />
+    <Compile Include="DotNet\16_While\WhileFibonacci.cs" />
+    <Compile Include="DotNet\16_While\WhileEven.cs" />
+    <Compile Include="DotNet\16_While\WhileDecrement.cs" />
+    <Compile Include="DotNet\16_While\WhileLoop.cs" />
+    <Compile Include="DotNet\16_While\WhileDemo.cs" />
+    <Compile Include="DotNet\16_While\WhileDescription.cs" />
+    <Compile Include="DotNet\17_BreakContinueGoto\BreakFor.cs" />
+    <Compile Include="DotNet\17_BreakContinueGoto\BreakInfiniteLoop.cs" />
+    <Compile Include="DotNet\17_BreakContinueGoto\BreakDemo.cs" />
+    <Compile Include="DotNet\17_BreakContinueGoto\GoToDemo.cs" />
+    <Compile Include="DotNet\17_BreakContinueGoto\ContinueDemo.cs" />
+    <Compile Include="DotNet\17_BreakContinueGoto\ForIfContinue.cs" />
+    <Compile Include="DotNet\17_BreakContinueGoto\WhileBreak.cs" />
+    <Compile Include="DotNet\18_Array\ArrayOne1.cs" />
+    <Compile Include="DotNet\18_Array\ArrayOne2.cs" />
+    <Compile Include="DotNet\18_Array\ArrayOne3.cs" />
+    <Compile Include="DotNet\18_Array\ArrayOne4.cs" />
+    <Compile Include="DotNet\18_Array\ArrayTotalAvg.cs" />
+    <Compile Include="DotNet\18_Array\ArrayStudents.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
