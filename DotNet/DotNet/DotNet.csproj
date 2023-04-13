@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CommandLineArgument</StartupObject>
+    <StartupObject>EnumerationDemo</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -191,6 +191,7 @@
     <Compile Include="DotNet\18_Array\ArrayWithVarKeyword.cs" />
     <Compile Include="DotNet\18_Array\ZigZag.cs" />
     <Compile Include="DotNet\19_Function\ArrowFunction.cs" />
+    <Compile Include="DotNet\19_Function\CommandLineParameterDemo.cs" />
     <Compile Include="DotNet\19_Function\CommandLineArgument.cs" />
     <Compile Include="DotNet\19_Function\LocalFunctionAdd.cs" />
     <Compile Include="DotNet\19_Function\LocalFunctionDemo.cs" />
@@ -211,12 +212,26 @@
     <Compile Include="DotNet\19_Function\ReturnValue.cs" />
     <Compile Include="DotNet\19_Function\FunctionParameter.cs" />
     <Compile Include="DotNet\19_Function\FunctionDemo.cs" />
+    <Compile Include="DotNet\21_API\UsingStaticClassesDemo.cs" />
+    <Compile Include="DotNet\22_Struct\CharStruct.cs" />
+    <Compile Include="DotNet\22_Struct\GuidDemo.cs" />
+    <Compile Include="DotNet\22_Struct\GetDateTimeFromYearlyHour.cs" />
+    <Compile Include="DotNet\22_Struct\OutVariableDemo.cs" />
+    <Compile Include="DotNet\22_Struct\TimeSpanDemo.cs" />
+    <Compile Include="DotNet\22_Struct\StructParameter.cs" />
+    <Compile Include="DotNet\22_Struct\StructArray.cs" />
+    <Compile Include="DotNet\22_Struct\StructVariable.cs" />
+    <Compile Include="DotNet\22_Struct\StructDemo.cs" />
+    <Compile Include="DotNet\23_Enum\EnumerationDemo.cs" />
+    <Compile Include="DotNet\23_Enum\ConsoleColorDemo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="DotNet\20_Interactive\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
