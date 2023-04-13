@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>PatternMatchingWithIf</StartupObject>
+    <StartupObject>TryCatch</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -245,6 +245,9 @@
     <Compile Include="DotNet\24_Class\ClassDescription.cs" />
     <Compile Include="DotNet\24_Class\MyFirstClass.cs" />
     <Compile Include="DotNet\24_Class\ClassNote.cs" />
+    <Compile Include="DotNet\25_String\StringBuilderPerformance.cs" />
+    <Compile Include="DotNet\25_String\StringPerformance.cs" />
+    <Compile Include="DotNet\26_Exception\TryCatch.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
