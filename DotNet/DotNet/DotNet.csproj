@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>EnumerationDemo</StartupObject>
+    <StartupObject>PatternMatchingWithIf</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -222,8 +222,29 @@
     <Compile Include="DotNet\22_Struct\StructArray.cs" />
     <Compile Include="DotNet\22_Struct\StructVariable.cs" />
     <Compile Include="DotNet\22_Struct\StructDemo.cs" />
+    <Compile Include="DotNet\23_Enum\EnumParse.cs" />
+    <Compile Include="DotNet\23_Enum\EnumGetNames.cs" />
+    <Compile Include="DotNet\23_Enum\EnumSwitch.cs" />
+    <Compile Include="DotNet\23_Enum\EnumIndexChange.cs" />
+    <Compile Include="DotNet\23_Enum\EnumIndex.cs" />
+    <Compile Include="DotNet\23_Enum\EnumAnimal.cs" />
     <Compile Include="DotNet\23_Enum\EnumerationDemo.cs" />
     <Compile Include="DotNet\23_Enum\ConsoleColorDemo.cs" />
+    <Compile Include="DotNet\24_Class\As.cs" />
+    <Compile Include="DotNet\24_Class\AsDemo.cs" />
+    <Compile Include="DotNet\24_Class\PatternMatchingWithIf.cs" />
+    <Compile Include="DotNet\24_Class\Is.cs" />
+    <Compile Include="DotNet\24_Class\RegexDemo.cs" />
+    <Compile Include="DotNet\24_Class\RegexReplace.cs" />
+    <Compile Include="DotNet\24_Class\StopwatchDemo.cs" />
+    <Compile Include="DotNet\24_Class\RockPaperScissors.cs" />
+    <Compile Include="DotNet\24_Class\RandomClassDemo.cs" />
+    <Compile Include="DotNet\24_Class\RandomDemo.cs" />
+    <Compile Include="DotNet\24_Class\ProcessStartDemo.cs" />
+    <Compile Include="DotNet\24_Class\ClassAndMember.cs" />
+    <Compile Include="DotNet\24_Class\ClassDescription.cs" />
+    <Compile Include="DotNet\24_Class\MyFirstClass.cs" />
+    <Compile Include="DotNet\24_Class\ClassNote.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
