@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>TryCatch</StartupObject>
+    <StartupObject>ClassDemo</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -247,7 +247,35 @@
     <Compile Include="DotNet\24_Class\ClassNote.cs" />
     <Compile Include="DotNet\25_String\StringBuilderPerformance.cs" />
     <Compile Include="DotNet\25_String\StringPerformance.cs" />
+    <Compile Include="DotNet\26_Exception\ExceptionHandling.cs" />
+    <Compile Include="DotNet\26_Exception\TryFinallyDemo.cs" />
+    <Compile Include="DotNet\26_Exception\ThrowNote.cs" />
+    <Compile Include="DotNet\26_Exception\TryCatchFinallyDemo4.cs" />
+    <Compile Include="DotNet\26_Exception\TryCatchFinallyDemo3.cs" />
+    <Compile Include="DotNet\26_Exception\TryCatchFinallyDemo2.cs" />
+    <Compile Include="DotNet\26_Exception\TryCatchFinallyDemo1.cs" />
+    <Compile Include="DotNet\26_Exception\TryCatchDemo.cs" />
+    <Compile Include="DotNet\26_Exception\FormatExceptionDemo.cs" />
+    <Compile Include="DotNet\26_Exception\ExceptionDemo.cs" />
     <Compile Include="DotNet\26_Exception\TryCatch.cs" />
+    <Compile Include="DotNet\27_Collection\StackNote.cs" />
+    <Compile Include="DotNet\28_GenericClass\Class1.cs" />
+    <Compile Include="DotNet\31_Algorithms\AverageAlgorithm.cs" />
+    <Compile Include="DotNet\31_Algorithms\MergeAlgorithm.cs" />
+    <Compile Include="DotNet\31_Algorithms\GroupAlgorithm.cs" />
+    <Compile Include="DotNet\31_Algorithms\ModeAlgorithm.cs" />
+    <Compile Include="DotNet\31_Algorithms\SortAlgorithm.cs" />
+    <Compile Include="DotNet\31_Algorithms\RankAlgorithm.cs" />
+    <Compile Include="DotNet\31_Algorithms\NearAll.cs" />
+    <Compile Include="DotNet\31_Algorithms\NearAlgorithm.cs" />
+    <Compile Include="DotNet\31_Algorithms\MinAlgorithm.cs" />
+    <Compile Include="DotNet\31_Algorithms\MaxAlgorithm.cs" />
+    <Compile Include="DotNet\31_Algorithms\CountAlgorithm.cs" />
+    <Compile Include="DotNet\31_Algorithms\SumAlgorithm.cs" />
+    <Compile Include="DotNet\32_Object\ClassDemo.cs" />
+    <Compile Include="DotNet\32_Object\ClassOne.cs" />
+    <Compile Include="DotNet\32_Object\ClassTwo.cs" />
+    <Compile Include="DotNet\32_Object\ObjectNote.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
