@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ClassDemo</StartupObject>
+    <StartupObject>MethodOverridePractice.MethodOverridePractice</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -334,6 +334,29 @@
     <Compile Include="DotNet\40_Delegate\DelegateGetArea.cs" />
     <Compile Include="DotNet\40_Delegate\DelegateNote.cs" />
     <Compile Include="DotNet\40_Delegate\DelegateDemo.cs" />
+    <Compile Include="DotNet\41_Event\EventDemo.cs" />
+    <Compile Include="DotNet\42_ClassEtc\ImmutableTypeDemo.cs" />
+    <Compile Include="DotNet\42_ClassEtc\PartialClass.cs" />
+    <Compile Include="DotNet\42_ClassEtc\SecondDeveloper.cs" />
+    <Compile Include="DotNet\42_ClassEtc\FirstDeveloper.cs" />
+    <Compile Include="DotNet\42_ClassEtc\PartialClassDemo.cs" />
+    <Compile Include="DotNet\43_Inheritance\BaseSub.cs" />
+    <Compile Include="DotNet\43_Inheritance\BaseKeyword.cs" />
+    <Compile Include="DotNet\43_Inheritance\AbstractClassShape.cs" />
+    <Compile Include="DotNet\43_Inheritance\FieldHiding.cs" />
+    <Compile Include="DotNet\43_Inheritance\ConstructorInheritance.cs" />
+    <Compile Include="DotNet\43_Inheritance\ConstructorBase.cs" />
+    <Compile Include="DotNet\43_Inheritance\ClassInheritance.cs" />
+    <Compile Include="DotNet\43_Inheritance\IsAn.cs" />
+    <Compile Include="DotNet\43_Inheritance\InheritancePractice.cs" />
+    <Compile Include="DotNet\43_Inheritance\ObjectClass.cs" />
+    <Compile Include="DotNet\43_Inheritance\InheritanceDemo.cs" />
+    <Compile Include="DotNet\44_Override\MethodOverridePractice.cs" />
+    <Compile Include="DotNet\44_Override\ClassToString.cs" />
+    <Compile Include="DotNet\44_Override\VirtualOverrideBase.cs" />
+    <Compile Include="DotNet\44_Override\VirtualMethod.cs" />
+    <Compile Include="DotNet\44_Override\VirtualOverride.cs" />
+    <Compile Include="DotNet\44_Override\InheritanceMethodOverride.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
