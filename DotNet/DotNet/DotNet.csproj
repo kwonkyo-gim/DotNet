@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MethodOverridePractice.MethodOverridePractice</StartupObject>
+    <StartupObject>SignBaseSignRepository</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -396,6 +396,16 @@
     <Compile Include="DotNet\50_Dynamic\Dynamic.cs" />
     <Compile Include="DotNet\51_Tuple\LocalFunctionDescription.cs" />
     <Compile Include="DotNet\51_Tuple\TupleDeconstructionDescription.cs" />
+    <Compile Include="DotNet\55_Thread\ParallelFor.cs" />
+    <Compile Include="DotNet\55_Thread\ConcurrencyFor.cs" />
+    <Compile Include="DotNet\55_Thread\ThreadPractice.cs" />
+    <Compile Include="DotNet\55_Thread\ThreadDemo.cs" />
+    <Compile Include="DotNet\56_Async\AsyncMain.cs" />
+    <Compile Include="DotNet\56_Async\AsyncAwaitSimple.cs" />
+    <Compile Include="DotNet\56_Async\AsyncAwaitDescription.cs" />
+    <Compile Include="DotNet\56_Async\WeatherForecastApp.cs" />
+    <Compile Include="DotNet\56_Async\SyncDemo.cs" />
+    <Compile Include="DotNet\57_InMemory\SignBaseSignRepository.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -404,6 +414,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DotNet\20_Interactive\" />
+    <Folder Include="DotNet\51_Tuple\NewFolder1\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
