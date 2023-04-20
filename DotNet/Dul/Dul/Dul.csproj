@@ -44,6 +44,7 @@
     <Compile Include="01_Creator\Creator.cs" />
     <Compile Include="02_Mathematics\Math.cs" />
     <Compile Include="03_String\StringLibrary.cs" />
+    <Compile Include="04_DateTime\DateTimeUtility.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

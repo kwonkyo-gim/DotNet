@@ -55,6 +55,7 @@
     <Compile Include="03_String\StringLibraryTest.cs" />
     <Compile Include="03_String\StringHandlerTest.cs" />
     <Compile Include="03_String\SqlUtilityTest.cs" />
+    <Compile Include="04_DateTime\DateTimeUtilityTest.cs" />
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
