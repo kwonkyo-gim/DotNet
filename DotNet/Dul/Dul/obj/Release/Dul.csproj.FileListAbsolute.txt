@@ -1,0 +1,5 @@
+C:\C#\DotNet\Dul\Dul\bin\Release\Dul.dll
+C:\C#\DotNet\Dul\Dul\bin\Release\Dul.pdb
+C:\C#\DotNet\Dul\Dul\obj\Release\Dul.csproj.CoreCompileInputs.cache
+C:\C#\DotNet\Dul\Dul\obj\Release\Dul.dll
+C:\C#\DotNet\Dul\Dul\obj\Release\Dul.pdb

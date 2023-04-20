@@ -1,0 +1,6 @@
+C:\C#\DotNet\Dul\Dul\bin\Debug\Dul.dll
+C:\C#\DotNet\Dul\Dul\bin\Debug\Dul.pdb
+C:\C#\DotNet\Dul\Dul\obj\Debug\Dul.csproj.AssemblyReference.cache
+C:\C#\DotNet\Dul\Dul\obj\Debug\Dul.csproj.CoreCompileInputs.cache
+C:\C#\DotNet\Dul\Dul\obj\Debug\Dul.dll
+C:\C#\DotNet\Dul\Dul\obj\Debug\Dul.pdb

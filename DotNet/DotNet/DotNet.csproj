@@ -394,6 +394,8 @@
     <Compile Include="DotNet\50_Dynamic\DynamicDemo.cs" />
     <Compile Include="DotNet\50_Dynamic\DynamicallyTypedObjects.cs" />
     <Compile Include="DotNet\50_Dynamic\Dynamic.cs" />
+    <Compile Include="DotNet\51_Tuple\LocalFunctionDescription.cs" />
+    <Compile Include="DotNet\51_Tuple\TupleDeconstructionDescription.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
