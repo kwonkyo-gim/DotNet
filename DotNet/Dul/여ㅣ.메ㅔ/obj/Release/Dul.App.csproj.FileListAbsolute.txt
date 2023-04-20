@@ -1,7 +1,0 @@
-C:\C#\DotNet\Dul\여ㅣ.메ㅔ\bin\Release\여ㅣ.메ㅔ.exe.config
-C:\C#\DotNet\Dul\여ㅣ.메ㅔ\bin\Release\여ㅣ.메ㅔ.exe
-C:\C#\DotNet\Dul\여ㅣ.메ㅔ\bin\Release\여ㅣ.메ㅔ.pdb
-C:\C#\DotNet\Dul\여ㅣ.메ㅔ\obj\Release\Dul.App.csproj.AssemblyReference.cache
-C:\C#\DotNet\Dul\여ㅣ.메ㅔ\obj\Release\Dul.App.csproj.CoreCompileInputs.cache
-C:\C#\DotNet\Dul\여ㅣ.메ㅔ\obj\Release\여ㅣ.메ㅔ.exe
-C:\C#\DotNet\Dul\여ㅣ.메ㅔ\obj\Release\여ㅣ.메ㅔ.pdb
