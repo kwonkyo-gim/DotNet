@@ -36,6 +36,9 @@
     <StartupObject>WebClientDemo</StartupObject>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -418,11 +421,14 @@
     <Compile Include="DotNet\60_Network\HttpWebRequestDemo.cs" />
     <Compile Include="DotNet\60_Network\WebClientDemo.cs" />
     <Compile Include="DotNet\60_Network\HttpClientDemo.cs" />
+    <Compile Include="DotNet\61_Functional\AggregateDemo.cs" />
+    <Compile Include="DotNet\61_Functional\HigherOrderFunction.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DotNet\20_Interactive\" />
