@@ -422,7 +422,11 @@
     <Compile Include="DotNet\60_Network\WebClientDemo.cs" />
     <Compile Include="DotNet\60_Network\HttpClientDemo.cs" />
     <Compile Include="DotNet\61_Functional\AggregateDemo.cs" />
+    <Compile Include="DotNet\61_Functional\LicenseResult.cs" />
     <Compile Include="DotNet\61_Functional\HigherOrderFunction.cs" />
+    <Compile Include="DotNet\62_Modern\PatternMatchingWithSwitch.cs" />
+    <Compile Include="DotNet\62_Modern\PatternMatchingSwitch.cs" />
+    <Compile Include="DotNet\62_Modern\PatternMatchingIf.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
