@@ -15,3 +15,5 @@ C:\C#\DotNet\FirstApp\FirstApp\obj\Debug\FirstApp.exe
 C:\C#\DotNet\FirstApp\FirstApp\obj\Debug\FirstApp.pdb
 C:\C#\DotNet\FirstApp\FirstApp\obj\Debug\ch2.g.cs
 C:\C#\DotNet\FirstApp\FirstApp\obj\Debug\ch2.baml
+C:\C#\DotNet\FirstApp\FirstApp\obj\Debug\ch3.g.cs
+C:\C#\DotNet\FirstApp\FirstApp\obj\Debug\ch3.baml
