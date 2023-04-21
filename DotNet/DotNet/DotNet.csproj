@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>SignBaseSignRepository</StartupObject>
+    <StartupObject>WebClientDemo</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -405,7 +405,19 @@
     <Compile Include="DotNet\56_Async\AsyncAwaitDescription.cs" />
     <Compile Include="DotNet\56_Async\WeatherForecastApp.cs" />
     <Compile Include="DotNet\56_Async\SyncDemo.cs" />
+    <Compile Include="DotNet\57_InMemory\RepositoryPatternDemo.cs" />
     <Compile Include="DotNet\57_InMemory\SignBaseSignRepository.cs" />
+    <Compile Include="DotNet\58_IO\TextToCollection.cs" />
+    <Compile Include="DotNet\58_IO\DirectoryAndDirectoryInfo.cs" />
+    <Compile Include="DotNet\58_IO\FileAndFileInfo.cs" />
+    <Compile Include="DotNet\58_IO\StreamWriterWriteLineDemo.cs" />
+    <Compile Include="DotNet\58_IO\StreamReaderReadToEndDemo.cs" />
+    <Compile Include="DotNet\58_IO\GetFileNameDemo.cs" />
+    <Compile Include="DotNet\59_XmlAndJSON\JsonConvertDemo.cs" />
+    <Compile Include="DotNet\59_XmlAndJSON\XElementDemo.cs" />
+    <Compile Include="DotNet\60_Network\HttpWebRequestDemo.cs" />
+    <Compile Include="DotNet\60_Network\WebClientDemo.cs" />
+    <Compile Include="DotNet\60_Network\HttpClientDemo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
