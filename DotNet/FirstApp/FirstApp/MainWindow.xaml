@@ -6,10 +6,12 @@
         xmlns:local="clr-namespace:FirstApp"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <StackPanel>
         <Label x:Name="lbl"  Content="안녕하세요"></Label>
+        
+        
         <Button>Click</Button>
         
         
-    </Grid>
+    </StackPanel>
 </Window>
