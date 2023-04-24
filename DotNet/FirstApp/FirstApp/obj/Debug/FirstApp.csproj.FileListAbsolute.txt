@@ -31,3 +31,5 @@ C:\C#\DotNet\FirstApp\FirstApp\obj\Debug\ch8.baml
 C:\C#\DotNet\FirstApp\FirstApp\obj\Debug\ch9.baml
 C:\C#\DotNet\FirstApp\FirstApp\obj\Debug\ch11.g.cs
 C:\C#\DotNet\FirstApp\FirstApp\obj\Debug\ch11.baml
+C:\C#\DotNet\FirstApp\FirstApp\obj\Debug\ch12.g.cs
+C:\C#\DotNet\FirstApp\FirstApp\obj\Debug\ch12.baml
