@@ -1,0 +1,9 @@
+C:\C#\DotNet\WpfApp5\WpfApp5\obj\Debug\WpfApp5.csproj.AssemblyReference.cache
+C:\C#\DotNet\WpfApp5\WpfApp5\obj\Debug\WpfApp5.Properties.Resources.resources
+C:\C#\DotNet\WpfApp5\WpfApp5\obj\Debug\WpfApp5.csproj.GenerateResource.cache
+C:\C#\DotNet\WpfApp5\WpfApp5\obj\Debug\WpfApp5.csproj.CoreCompileInputs.cache
+C:\C#\DotNet\WpfApp5\WpfApp5\bin\Debug\WpfApp5.exe.config
+C:\C#\DotNet\WpfApp5\WpfApp5\bin\Debug\WpfApp5.exe
+C:\C#\DotNet\WpfApp5\WpfApp5\bin\Debug\WpfApp5.pdb
+C:\C#\DotNet\WpfApp5\WpfApp5\obj\Debug\WpfApp5.exe
+C:\C#\DotNet\WpfApp5\WpfApp5\obj\Debug\WpfApp5.pdb
