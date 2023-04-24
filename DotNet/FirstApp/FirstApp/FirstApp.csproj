@@ -55,6 +55,14 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Page Include="ch10.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ch11.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="ch2.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -71,6 +79,18 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="ch7.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ch8.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ch9.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -78,6 +98,12 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ch10.xaml.cs">
+      <DependentUpon>ch10.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ch11.xaml.cs">
+      <DependentUpon>ch11.xaml</DependentUpon>
     </Compile>
     <Compile Include="ch2.xaml.cs">
       <DependentUpon>ch2.xaml</DependentUpon>
@@ -90,6 +116,15 @@
     </Compile>
     <Compile Include="ch5.xaml.cs">
       <DependentUpon>ch5.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ch7.xaml.cs">
+      <DependentUpon>ch7.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ch8.xaml.cs">
+      <DependentUpon>ch8.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ch9.xaml.cs">
+      <DependentUpon>ch9.xaml</DependentUpon>
     </Compile>
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>

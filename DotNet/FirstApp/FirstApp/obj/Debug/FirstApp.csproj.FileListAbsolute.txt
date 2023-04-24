@@ -21,3 +21,13 @@ C:\C#\DotNet\FirstApp\FirstApp\obj\Debug\ch4.g.cs
 C:\C#\DotNet\FirstApp\FirstApp\obj\Debug\ch4.baml
 C:\C#\DotNet\FirstApp\FirstApp\obj\Debug\ch5.g.cs
 C:\C#\DotNet\FirstApp\FirstApp\obj\Debug\ch5.baml
+C:\C#\DotNet\FirstApp\FirstApp\obj\Debug\ch10.g.cs
+C:\C#\DotNet\FirstApp\FirstApp\obj\Debug\ch7.g.cs
+C:\C#\DotNet\FirstApp\FirstApp\obj\Debug\ch8.g.cs
+C:\C#\DotNet\FirstApp\FirstApp\obj\Debug\ch9.g.cs
+C:\C#\DotNet\FirstApp\FirstApp\obj\Debug\ch10.baml
+C:\C#\DotNet\FirstApp\FirstApp\obj\Debug\ch7.baml
+C:\C#\DotNet\FirstApp\FirstApp\obj\Debug\ch8.baml
+C:\C#\DotNet\FirstApp\FirstApp\obj\Debug\ch9.baml
+C:\C#\DotNet\FirstApp\FirstApp\obj\Debug\ch11.g.cs
+C:\C#\DotNet\FirstApp\FirstApp\obj\Debug\ch11.baml
